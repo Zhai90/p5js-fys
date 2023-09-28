@@ -1,0 +1,133 @@
+{
+  "_comment": "hi!",
+  "text": {
+    "title": "How do homework and stress correlate?",
+    "body": "Data recorded over the span of a month. Each layer is equivalent to a week.\nNo books means that there was no homework that day.\n\nMore books means more homework.\nWarmer colors means higher stress."
+  },
+  "data": [
+    {
+      "stress": 100,
+      "homework": 100
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 70
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 100,
+      "homework": 100
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    },
+    {
+      "stress": 0,
+      "homework": 0
+    }
+  ]
+}
